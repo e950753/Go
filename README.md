@@ -1,2 +1,2 @@
 # Go
-Studying Go (with Hexlet)
+Мой проект на Go
