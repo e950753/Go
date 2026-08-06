@@ -1,4 +1,4 @@
-module github.com/e950753/Go
+module github.com/e950753/Go/v2
 
 go 1.26.5
 

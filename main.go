@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	color.Red("Hello, Hexlet!")
+	color.Red("Hexlet for Brave!")
 }
